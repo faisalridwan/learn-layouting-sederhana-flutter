@@ -30,7 +30,6 @@
 /build/
 
 # Android related
-android
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
 **/android/captures/
