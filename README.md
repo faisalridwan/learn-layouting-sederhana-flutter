@@ -1,4 +1,4 @@
-# uiux_app
+# UI UX
 
 A new Flutter project.
 
